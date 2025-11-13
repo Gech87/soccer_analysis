@@ -1,2 +1,7 @@
-# soccer_analysis
-Analyizing goal trends
+# Soccer Analysis
+## About the Project
+This project will look at the goal information from the top-level men's soccer teams in te UK, Italy, and Spain. These are *Premier League*, *Serie A*, and *La Liga*, respectively. We will look at scoring trends of the last five years and compare theese between the three leagues.
+
+###### Credits: [Kaggle: Europe Big 5 League Last 5 Season Match Scores](https://www.kaggle.com/datasets/sinansaglam/europe-big-5-league-last-5-season-match-scores)
+
+![La Liga logo](https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg)
